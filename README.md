@@ -91,8 +91,8 @@ Password: 123456
   ```
 5. Set up environment variables:
 
-Create a .env file in the backend and frontend directories.
-**Note:** Here, I provided my .env file intentionally for reference
+Create a .env file in the backend and frontend directories.<br>
+**Note:** Here, I provided my .env file intentionally for reference <br>
 6. Run the development server:
 ```
 # In the backend directory
