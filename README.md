@@ -101,3 +101,17 @@ npm run dev
 # In the frontend directory
 npm run dev
 ```
+
+**Blog**
+![Untitled design (3)](https://github.com/erpankajk4/Blog-MERN/assets/118353291/8831eecc-5200-47f2-844a-e559a360ca4f)
+**Post List at Admin Side for CRUD Operations**
+![screencapture-blog-mern-lpwd-onrender-dashboard-2024-03-08-21_51_53](https://github.com/erpankajk4/Blog-MERN/assets/118353291/c041760c-0602-4fdd-96f5-a5bab1601d7d)
+**Admin Profile**
+![screencapture-blog-mern-lpwd-onrender-dashboard-2024-03-08-21_51_29](https://github.com/erpankajk4/Blog-MERN/assets/118353291/9ae0d23e-c8a7-4b60-ae3a-78bd726577e7)
+**About**
+![screencapture-blog-mern-lpwd-onrender-about-2024-03-08-21_46_14](https://github.com/erpankajk4/Blog-MERN/assets/118353291/eb20a4ec-8b92-47fa-80a4-666ceef2c2d3)
+**HOME**
+![screencapture-blog-mern-lpwd-onrender-2024-03-08-21_45_41](https://github.com/erpankajk4/Blog-MERN/assets/118353291/7aa64edd-7ea4-44a6-b9e4-5b5e5bbd6c48)
+
+
+
