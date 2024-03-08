@@ -37,7 +37,7 @@ export default function FooterCom() {
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  Pankaj's Blog
+                  About Developer
                 </Footer.Link>
               </Footer.LinkGroup>
             </div>
