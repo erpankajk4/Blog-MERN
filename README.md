@@ -6,8 +6,8 @@ Blog-MERN is a full-stack blogging application built using the MERN stack (Mongo
 
 ## Admin Login Details
 
-Username: admin@gmail.com
-Password: 123456
+Username: admin@gmail.com <br>
+Password: 123456<br>
 **Note:** Becoming an admin in this app is possible only by having access to MongoDB Atlas. You can become an admin by setting `isAdmin` to "True" in MongoDB collection. For demonstration purposes, an admin login is provided for testing CRUD operations on posts.
 ![Untitled design](https://github.com/erpankajk4/Blog-MERN/assets/118353291/6165861c-87de-4b2e-919e-d34f017d2a07)
 
